@@ -30,6 +30,7 @@ nav {
 
 button {
     border-radius: 10px;
+    padding: 0 10px;
 }
 .black-button {
     background-color: black;
@@ -44,8 +45,7 @@ button {
     margin-top: 15px;
     margin-left: 60px;
     border-color: #3161E0;
-    padding: 0 10px;
-   height:70%;
+    height:70%;
     
 }
 
@@ -74,6 +74,13 @@ h1, p{
 
 .conteined {
     margin-top: 50px;
+}
+
+.f-section {
+    height: 500px;
+    max-width: 1200px;
+    margin: 0 auto;
+
 }
 
 
