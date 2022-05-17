@@ -37,6 +37,11 @@ button {
     color: white;
 }
 
+.button-violet {
+    background-color: #8EA1E1;
+    margin-top: 30px;
+}
+
 .button-container {
     margin-top: 50px;
 }
@@ -75,6 +80,8 @@ h1 {
  font-size:50px;   
 }
 
+
+
 p {font-size: 20px;}
 
 .title{
@@ -93,8 +100,6 @@ p {font-size: 20px;}
 
 .f-section {
     height: 500px;
-    
-
 }
 
 .s-section {
@@ -112,14 +117,11 @@ p {font-size: 20px;}
 
 .l-section {
     background-color: lightgray;
-    height: 800px;
+    height: 1000px;
     display: flex;
     justify-content: center;
 }
     
-
-
-
 .setting {
     margin: 0 auto;
     max-width: 1200px;
@@ -136,13 +138,10 @@ p {font-size: 20px;}
 
 }
 
-
-
 .reverse {
     display: flex;
     flex-direction: row-reverse;
 }
-
 
 .inside {
     display:flex;
@@ -151,6 +150,26 @@ p {font-size: 20px;}
 
 }
 
+.footer-container {
+    background-color: #23272A;
+    height:500px;
+    display:flex;
+    justify-content: center;
+}
+
+.place {
+ color:#7289DA;
+ margin-top: 70px;
+}
+
+.flag {
+    height: 20px;
+}
+
+li{
+    color:white;
+    list-style-type: none;
+}
 
 
 
