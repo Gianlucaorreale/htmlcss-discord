@@ -101,6 +101,13 @@ p {font-size: 20px;}
     
 }
 
+.t-section {
+    background-color: white;
+    height:500px
+}
+
+
+
 .setting {
     margin: 0 auto;
     max-width: 1200px;
