@@ -3,3 +3,40 @@
     padding:0;
     box-sizing:border-box;
 }
+
+.container {
+    background-color: #3161E0;  
+    
+}
+
+.top-header {
+   
+    display: flex;
+    justify-content: center;
+    max-width: 1200px;
+    margin: 0 auto;
+    color:white;
+}
+
+.logo {
+    margin-top: 15px;
+    margin-bottom:15px;
+    }
+
+nav {
+    margin-top: 15px;
+    margin-left: 30px;
+}
+
+button {
+    border-radius: 10px;
+}
+
+.access {
+    margin-top: 15px;
+    margin-left: 60px;
+    border-color: #3161E0;
+    padding: 0 10px;
+   height:70%;
+    
+}
