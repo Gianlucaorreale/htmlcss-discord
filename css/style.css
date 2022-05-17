@@ -31,6 +31,14 @@ nav {
 button {
     border-radius: 10px;
 }
+.black-button {
+    background-color: black;
+    color: white;
+}
+
+.button-container {
+    margin-top: 50px;
+}
 
 .access {
     margin-top: 15px;
@@ -40,3 +48,34 @@ button {
    height:70%;
     
 }
+
+.background{
+    background-image: url(../img/jumbo.png);
+    height: 500px;
+}
+
+.main-header {
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+    
+    
+}
+
+h1, p{
+    color: white;
+   
+}
+
+.title{
+  margin-top: 50px; 
+  font-size: 50px; 
+}
+
+.conteined {
+    margin-top: 50px;
+}
+
+
+
+
